@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T22:36:30 EET" name="Suite" finished-at="2024-01-25T22:36:55 EET" duration-ms="25128">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T22:36:30 EET" name="Test" finished-at="2024-01-25T22:36:55 EET" duration-ms="25128">
+      <class name="Test_assignment.Tests.Tests">
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:30 EET" name="StartBrowser" finished-at="2024-01-25T22:36:32 EET" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:30 EET" name="StartBrowser" finished-at="2024-01-25T22:36:32 EET" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:30 EET" name="StartBrowser" finished-at="2024-01-25T22:36:32 EET" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:30 EET" name="StartBrowser" finished-at="2024-01-25T22:36:32 EET" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:31 EET" name="StartBrowser" finished-at="2024-01-25T22:36:32 EET" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="CheckFilteredPositions(java.util.HashMap)[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:32 EET" name="CheckFilteredPositions" data-provider="getData" finished-at="2024-01-25T22:36:44 EET" duration-ms="12394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{department=Quality Assurance, location=Istanbul, Turkey}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFilteredPositions -->
+        <test-method signature="QAPositionsListPresenceWithFiltration()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:32 EET" name="QAPositionsListPresenceWithFiltration" finished-at="2024-01-25T22:36:41 EET" duration-ms="9285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QAPositionsListPresenceWithFiltration -->
+        <test-method signature="RedirectionToPositionPage()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:32 EET" name="RedirectionToPositionPage" finished-at="2024-01-25T22:36:43 EET" duration-ms="10941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RedirectionToPositionPage -->
+        <test-method signature="CareersPageBlocksAreOpened()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:32 EET" name="CareersPageBlocksAreOpened" finished-at="2024-01-25T22:36:38 EET" duration-ms="6087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CareersPageBlocksAreOpened -->
+        <test-method signature="HomePageIsOpened()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:32 EET" name="HomePageIsOpened" finished-at="2024-01-25T22:36:36 EET" duration-ms="4028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageIsOpened -->
+        <test-method is-config="true" signature="AfterTestEndActions()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:36 EET" name="AfterTestEndActions" finished-at="2024-01-25T22:36:36 EET" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEndActions -->
+        <test-method is-config="true" signature="AfterTestEndActions()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:38 EET" name="AfterTestEndActions" finished-at="2024-01-25T22:36:38 EET" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEndActions -->
+        <test-method is-config="true" signature="AfterTestEndActions()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:41 EET" name="AfterTestEndActions" finished-at="2024-01-25T22:36:41 EET" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEndActions -->
+        <test-method is-config="true" signature="AfterTestEndActions()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:43 EET" name="AfterTestEndActions" finished-at="2024-01-25T22:36:43 EET" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEndActions -->
+        <test-method is-config="true" signature="AfterTestEndActions()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:44 EET" name="AfterTestEndActions" finished-at="2024-01-25T22:36:44 EET" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEndActions -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:44 EET" name="StartBrowser" finished-at="2024-01-25T22:36:45 EET" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="CheckFilteredPositions(java.util.HashMap)[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:45 EET" name="CheckFilteredPositions" data-provider="getData" finished-at="2024-01-25T22:36:55 EET" duration-ms="10519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{department=Sales, location=Kuala Lumpur, Malaysia}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFilteredPositions -->
+        <test-method is-config="true" signature="AfterTestEndActions()[pri:0, instance:Test_assignment.Tests.Tests@306f16f3]" started-at="2024-01-25T22:36:55 EET" name="AfterTestEndActions" finished-at="2024-01-25T22:36:55 EET" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEndActions -->
+      </class> <!-- Test_assignment.Tests.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
